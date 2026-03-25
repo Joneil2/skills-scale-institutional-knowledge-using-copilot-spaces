@@ -14,11 +14,20 @@ Applies to all cross-functional projects that deliver product features, services
 - Psychological safety: encourage feedback and learning.
 
 ## Core Roles
+
+### Primary Delivery Roles
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
+- QA Lead: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
+
+### Supporting & Specialized Roles
+- **UX Designer:** Conducts user research, creates design specs, validates usability.
+- **Release Manager:** Plans and coordinates releases, manages deployment communications.
+- **Security Lead:** Ensures security best practices, manages vulnerability response.
+- **Support/Customer Success:** Gathers customer insights, communicates releases.
+- **Stakeholders:** Provide business context, strategic direction, and approval authority.
 
 ## Key Artifacts
 - Project Charter / One-pager
@@ -44,3 +53,5 @@ Applies to all cross-functional projects that deliver product features, services
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
+
+For detailed responsibilities and interactions, see [Roles & Personas](./octoacme-roles-and-personas.md) and [Cross-Functional Collaboration](./octoacme-cross-functional-collaboration.md).
